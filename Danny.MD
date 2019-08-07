@@ -1,14 +1,14 @@
 
 # 张鑫 
-- 手机：18310112009
+- 手机：18500036169
 - Email：happyelement.danny@gmail.com
 - 微信号：Sasuke_xi
 - QQ: 543237869
 - 男/1993
 - 本科/天津大学仁爱学院计算机通信工程系
-- 工作年限：3年
+- 工作年限：4年
 - Github：https://github.com/HappyColour
-- 期望职位：Web前端工程师、HTML5工程师
+- 期望职位：全栈工程师、Web前端工程师、HTML5工程师
 - 期望城市：北京
 
 # 工作经历
