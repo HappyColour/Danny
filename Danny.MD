@@ -1,4 +1,3 @@
-
 # 张鑫 
 - 手机：18500036169
 - Email：happyelement.danny@gmail.com
@@ -19,7 +18,7 @@
 # 技能清单
 - Web开发：Node/PHP/Java/
 - Web框架：ThinkPHP/Yaf/Yii/Lavarel/LazyPHP
-- 前端框架：Vue/React/HTML5/CSS3/Jquery/Zepto/Bootstrap
+- 前端框架：Vue/Nuxt/React/HTML5/CSS3/Jquery/Zepto/Bootstrap
 - 前端工具：Webpack/Gulp/Yog2/Fis3
 - 数据库相关：MySQL/Oracle
 - 版本管理、文档和自动化部署工具：Git/Svn
@@ -27,6 +26,12 @@
 - 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
   
 ## 小牛电动 （ 2017年7月 ~ 至今 ）
+### 使用技术及框架清单：Nuxt+express+redis
+### 小牛官网（https://www.niu.com）
+### 小牛自行车站Aero（https://niuaero.niu.com）
+### 小牛品牌站Brand（https://brand.niu.com）
+### 项目职责
+0-1前端架构搭建，封装公共可继承样式、公共组件封装，单点登录，Service Worker，实现组件的Web Components，性能优化
 ### 使用技术及框架清单：yog2+express+swig+sass+html5+css3+git+media query etc
 ### 电商平台
 ### https://store.niu.com
