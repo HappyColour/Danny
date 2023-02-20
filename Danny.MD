@@ -19,7 +19,7 @@
 ## 开源项目
   - [Nuxt3最佳实践模板](https://github.com/HappyColour/nuxt3-template)：NUXT3是一个混合式VUE3框架，拥有混合渲染、强大的数据获取和新功能。我基于对此框架的深入理解、当前前端新技术的流行以及服务端的经验，开发和封装了一些最佳实践和解决方案到此项目中，目前还在搭建中，持续更新。
   - [Airtable转JSON脚本](https://github.com/HappyColour/airtable-to-json)：冲出国门是大部分中国企业为之自豪的事情，所以项目国际化需求日益剧增，Airtable是一个电子表格 - 数据库混合体，企业可以基于Airtable制作国际化页面的多语言对照表格，然后通过此脚本生成一个json文件，应用到项目中，小牛电动的全球化多语言解决方案就是基于此方案实施落地。
-  - [文件类型转化工具](https://github.com/HappyColour/i18n-file-to-json/blob/master/FileToJson.js)：此项目的主要用途是将CSV or EXCEL等类型的文件转换成json文件，主要的应用场景在项目国际化场景中。
+  - [文件类型转化工具](https://github.com/HappyColour/i18n-file-to-json)：此项目的主要用途是将CSV or EXCEL等类型的文件转换成json文件，主要的应用场景在项目国际化场景中。
   - [图片过滤器](https://github.com/HappyColour/filter-invalid-images)：此项目的主要用途是将目标项目中存在且未被使用的图片过滤掉，减少项目的体积和项目的打包速度。
     
     
