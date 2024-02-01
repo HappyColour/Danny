@@ -2,11 +2,11 @@
 * 张鑫/男/1993
 * 手机：18500036169
 * 统招本科/天津大学仁爱学院/通信工程
-* 工作年限：8年
+* 工作年限：8年+
 * Github：https://github.com/HappyColour
 * 期望职位：产品研发总监、技术总监、前端负责人
 * 期望城市：北京
-* 当前状态：在职，寻更好机会
+* 当前状态：离职
 * [在线简历](https://happycolour.github.io)
 * Email：happyelement.danny@gmail.com
 
